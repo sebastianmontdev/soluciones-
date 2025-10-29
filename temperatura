@@ -1,0 +1,5 @@
+grados = int(input("escriba grados celsius"))
+
+f = (grados * 9/5 + 32)
+
+print(f"la convercion a grados fahrenheit es {f}")
