@@ -1,0 +1,1 @@
+edad_cliente = int(input("ingrese su edad"))

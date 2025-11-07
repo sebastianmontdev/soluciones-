@@ -1,4 +1,4 @@
-contador = 3
+contador = 7
 
 while contador != 0:
     contador = contador -1
