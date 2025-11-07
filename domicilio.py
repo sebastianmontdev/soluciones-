@@ -26,7 +26,7 @@ if disponibilidad == "no" :
             
             print("dato incorrecto")
             
-    elif pedido == "no":
+    elif nuevo_producto == "no":
             
             print("cancelar pedido")
             
